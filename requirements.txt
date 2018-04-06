@@ -1,0 +1,6 @@
+seaborn
+numpy
+sklearn
+keras
+tensorflow
+theano
