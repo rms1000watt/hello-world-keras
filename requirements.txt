@@ -4,3 +4,4 @@ sklearn
 keras
 tensorflow
 theano
+pandas

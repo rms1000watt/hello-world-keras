@@ -7,13 +7,20 @@ Hello World to Keras
 ## Contents
 
 - [Dev](#dev)
+- [Download](#download)
 - [Build](#build)
 - [Run](#run)
 
 ## Dev
 
 ```bash
-pip3 install -U -r requirements.txt
+sudo pip3 install -U -r requirements.txt
+```
+
+## Download
+
+```bash
+./download-data.sh
 ```
 
 ## Build
